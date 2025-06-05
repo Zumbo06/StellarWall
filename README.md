@@ -43,7 +43,7 @@ StellarWall is a lightweight and customizable live wallpaper engine for Windows 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[YourGitHubUsername]/StellarWall.git
+    git clone https://github.com/Zumbo06/StellarWall.git
     cd StellarWall
     ```
 2.  **Create a virtual environment (recommended):**
