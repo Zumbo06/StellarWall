@@ -1,8 +1,5 @@
 StellarWall is a lightweight and customizable live wallpaper engine for Windows that allows you to set animated GIFs and MP4 videos as your desktop background. Personalize your workspace with dynamic playlists that change based on time intervals, the time of day, or even the day of the week.
 
-![StellarWall Screenshot or GIF Demo]([Link to Your Screenshot or GIF - e.g., https://i.imgur.com/your_image.gif])
-*(Replace the above link with an actual screenshot or GIF of your application)*
-
 ## ✨ Features
 
 *   **Animated Backgrounds:** Supports both **GIF** and **MP4** video files.
